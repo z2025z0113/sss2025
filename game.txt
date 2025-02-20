@@ -1,0 +1,11 @@
+1.rpg
+2.arpg
+3.fps
+4.tps
+5.rts
+6.slg
+7.act
+8.avg
+9.rac
+10.ftg
+11.puz
